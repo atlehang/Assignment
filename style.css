@@ -100,7 +100,7 @@ form input {
   width: 150px;
 }
 .One {
-background:linear-gradient(to bottom right,grey,rgba(255, 0, 0, 0.2)), url('images/men.jpg');
+background:linear-gradient(to bottom right,grey,rgba(255, 0, 0, 0.2)), url('men.jpg');
 height: 800px;
 background-position: center;
 background-size: cover;
